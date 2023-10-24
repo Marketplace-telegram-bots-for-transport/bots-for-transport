@@ -1,3 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = git@github.com:YuliyaKryuchkova/Marketplace-telegram-bots-for-transport.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:Marketplace-telegram-bots-for-transport/frontend.git
